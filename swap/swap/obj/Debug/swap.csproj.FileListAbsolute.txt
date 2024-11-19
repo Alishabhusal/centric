@@ -1,0 +1,7 @@
+C:\Users\bhusa\OneDrive\Desktop\.net\swap\swap\bin\Debug\swap.exe.config
+C:\Users\bhusa\OneDrive\Desktop\.net\swap\swap\bin\Debug\swap.exe
+C:\Users\bhusa\OneDrive\Desktop\.net\swap\swap\bin\Debug\swap.pdb
+C:\Users\bhusa\OneDrive\Desktop\.net\swap\swap\obj\Debug\swap.csproj.AssemblyReference.cache
+C:\Users\bhusa\OneDrive\Desktop\.net\swap\swap\obj\Debug\swap.csproj.CoreCompileInputs.cache
+C:\Users\bhusa\OneDrive\Desktop\.net\swap\swap\obj\Debug\swap.exe
+C:\Users\bhusa\OneDrive\Desktop\.net\swap\swap\obj\Debug\swap.pdb
